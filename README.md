@@ -26,3 +26,4 @@ The solution is presented in three Jupyter notebooks in the folder named `notebo
 - wrapping the process into a class
 - `03_calculation_of_sMAE_and_test-predict, all stores.ipynb` - calculations of sMAE metrics and forecasts for all 
 - stores using previously built models and classes, conclusions
+- final predictions are presented in the `test_predict.csv` file in the folder named `data`
