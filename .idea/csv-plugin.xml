@@ -31,7 +31,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\model_settings\params_h_.csv">
+        <entry key="\model_settings\params_1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\model_settings\params_19.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
