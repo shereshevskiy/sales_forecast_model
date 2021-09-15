@@ -23,7 +23,7 @@ strategy were selected.
 The solution is presented in three Jupyter notebooks in the folder named `notebooks`.
 - `01_data_research.ipynb` - data research and analysis
 - `02_model_building_ (id = 0) .ipynb` - building a model for store_id = 0 with detailed comments, visualizations and 
-- wrapping the process into a class (the class of model see in folder `models` )
+wrapping the process into a class (the class of model see in folder `models` too)
 - `03_calculation_of_sMAE_and_test-predict, all stores.ipynb` - calculations of sMAE metrics and forecasts for all 
 stores using previously built models and classes. There is the summary at the end of this notebook
 - for each store was selected individual hyperparameters, see subfolder `parameters_selection` in the folder `notebooks`
